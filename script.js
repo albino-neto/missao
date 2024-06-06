@@ -1,2 +1,2 @@
-const caixaprincipal = document.querySelector(".caixaprincipal".)
-onst caixapergunta = document.querySelector(".caixaprincipal".)
+const caixaprincipal = document.querySelector(".caixaprincipal")
+const caixapergunta = document.querySelector(".caixaprincipal")
